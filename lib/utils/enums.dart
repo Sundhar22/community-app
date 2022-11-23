@@ -1,0 +1,1 @@
+enum MenuState{favorites,myLearning,community,chartBot}
